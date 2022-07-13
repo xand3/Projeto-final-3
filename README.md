@@ -15,12 +15,12 @@ O número 1 do nome, por sua vez, é uma classificação da (FIA) — Federaçã
 
 ## Ferramentas utilizadas
 
-MySQL
-HTML5
-Git
-Google Drive
-Trello
-Supabase
-Discord
+MySQL,
+HTML5,
+Git,
+Google Drive,
+Trello,
+Supabase,
+Discord,
 
 
